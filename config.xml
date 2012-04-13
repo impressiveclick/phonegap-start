@@ -4,10 +4,10 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>Beer Flakes</name>
+	<name>Dover Directory</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Dover Internal Communications Directory. For private use only.
 	</description>
 
 	<author href="http://www.impressiveclick.com"
